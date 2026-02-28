@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "モスキート",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-02-28T09:04:29.819777Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モスキート",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_モスキート_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モスキート",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_モスキート_DECO_27.txt"
+    }
+  ]
+}
